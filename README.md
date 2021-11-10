@@ -1,7 +1,5 @@
-# SC-FEGAN
-SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV 2019)
-
-Youngjoo Jo, Jongyoul Park
+# FewGAN
+FewGAN : Face Editing eith Generative Adversarial Network with User's Sketch and Color
 
 arXiv: [https://arxiv.org/abs/1902.06838](https://arxiv.org/abs/1902.06838)
 
@@ -72,30 +70,3 @@ We recommend using the following workflow:
 
 ### Face restoration (with only sketch and color)
 ![restore2](imgs/restoration2.jpg)
-
-## License
-CC 4.0 Attribution-NonCommercial International
-
-The software is for educational and academic research purpose only.
-
-## Notes
-
-- This is developed on Linux machine running Ubuntu 18.04.1
-- Provided model and sample code is under a non-commercial creative commons license.
-
-## Citing
-```
-@InProceedings{Jo_2019_ICCV,
-  author = {Jo, Youngjoo and Park, Jongyoul},
-  title = {SC-FEGAN: Face Editing Generative Adversarial Network With User's Sketch and Color},
-  booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
-  month = {October},
-  year = {2019}
-}
-```
-
-## Next
-- Update training code
-
-## Acknowledgement
-We acknowledge the official code [DeepFillv1](https://github.com/JiahuiYu/generative_inpainting). We thank all the researchers at ETRI, especially Kimin Yun and Jinwoo Jung, for insightful discussions.
