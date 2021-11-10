@@ -1,10 +1,6 @@
 # FewGAN
 FewGAN : Face Editing eith Generative Adversarial Network with User's Sketch and Color
 
-arXiv: [https://arxiv.org/abs/1902.06838](https://arxiv.org/abs/1902.06838)
-
-![Teaser GUI](imgs/GUI.gif)
-
 ## Overview
 Edit face images using a a deep neural network. Users can edit face images using intuitive inputs such as sketching and coloring, from which our network SC-FEGAN generates high quality synthetic images. We used SN-patchGAN discriminator and Unet-like generator with gated convolutional layers.
 
